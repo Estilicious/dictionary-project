@@ -1,3 +1,7 @@
+body {
+  background: chartreuse;
+  text-align: center;
+}
 .App-header {
   margin: 30px 0;
 }
