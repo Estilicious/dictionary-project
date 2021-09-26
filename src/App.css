@@ -1,7 +1,14 @@
 body {
-  background: chartreuse;
-  text-align: center;
+  background: #b4b4da;
 }
+a {
+  color: #9670f4;
+}
+.App {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
 .App-header {
   margin: 30px 0;
 }
@@ -13,5 +20,6 @@ body {
 }
 .App-footer {
   text-align: center;
-  margin: 30px 0;
+  margin-top: 20px;
+  font-size: 13px;
 }

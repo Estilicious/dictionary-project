@@ -12,7 +12,9 @@ export default function App() {
         <Dictionary defaultKeyword="Sunset" />
         </main>
       <footer className="App-footer">
-        <small>Coded by Esther</small>
+        <small>© 2021
+         <a href="https://www.linkedin.com/in/chukwu-esther-530ba94a/">Esther</a> and open sourced on <a href="https://github.com/Estilicious/dictionary-project">Github</a>
+         </small>
       </footer>
     </div>
   );
