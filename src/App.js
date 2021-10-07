@@ -14,7 +14,8 @@ export default function App() {
         </main>
       <footer className="App-footer">
         <small>© 2021
-         <a href="https://www.linkedin.com/in/chukwu-esther-530ba94a/" target="_blank" alt="Esther's social media page" rel="noreferrer">Esther</a> and open sourced on <a href="https://github.com/Estilicious/dictionary-project">Github</a>
+         <a href="https://www.linkedin.com/in/chukwu-esther-530ba94a/" target="_blank" alt="Esther's social media page" rel="noreferrer">Esther, </a>open sourced on <a href="https://github.com/Estilicious/dictionary-project">Github</a>
+         and powered by<a href="https://myshionary.netlify.app/" alt="Esther's website" target="_blank" rel="noreferrer">Netlify</a>
          </small>
       </footer>
     </div>
